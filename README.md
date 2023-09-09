@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WatermelonRain
+- 👀 I’m interested in Circuit Design and Computer Architecure.
+- 🌱 I’m currently a Graduate student pursuining Computer Engineering at University Of Southern California, Los Angeles , USA.
