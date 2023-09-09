@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @WatermelonRain
 - 👀 I’m interested in Circuit Design and Computer Architecure.
 - 🌱 I’m currently a Graduate student pursuing Computer Engineering at University Of Southern California, Los Angeles , USA.
+- Profile photo art credits - Sarah Illenberger
